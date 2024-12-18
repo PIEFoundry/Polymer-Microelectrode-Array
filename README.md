@@ -1,20 +1,6 @@
 # Polymer Microelectrode Array
 This repository contains all files relevant to the design and manufacture of the PIE Foundry polymer microelectrode arrays. For more information about the PIE Foundry, visit our [website](https://piefoundry.usc.edu/). 
 
-# License
-Unless otherwise specified, all information and documents found in this repository are licensed under the Creative Commons CC-BY-4.0 license.
-
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
 # Disclaimer
 The contents of this repository are subject to revision. No representation or warranty, express or implied, is provided in relation to the accuracy, correctness, completeness, or reliability of the information, opinions, or conclusions expressed in this repository.
 
