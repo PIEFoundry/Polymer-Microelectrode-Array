@@ -135,7 +135,7 @@ Equipment:
 * *IR temperature sensor*
 * *UV intensity meter*
 * *Wafer centering tool*
-* HDPE trays for developer and water baths*
+* *HDPE trays for developer and water baths*
 * *Wafer dipper/holding tool*
 * *Contact profilometer*
 
@@ -443,8 +443,8 @@ _Note: Parylene C MEAs often curl following release due to inter-layer stress._
 Equipment:
 * *X-acto knife*
 * *Miconeedles*
-* *Sharp tweezers
-* Stereoscope*
+* *Sharp tweezers*
+* *Stereoscope*
 
 Process:
 1. To remove a tabulated sheet:
@@ -513,7 +513,7 @@ Process:
    
 ## A. Process Flow Diagram
 
-![A diagram of a device pattern]
+![A diagram of a device pattern](/Images/MPW_Flow_Diagram.png)
 
 ## B. Material Sources
 
