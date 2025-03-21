@@ -58,7 +58,7 @@ Time: 75 seconds (approximate)
     2. 125 mT, 100 W, 30 sccm O<sub>2</sub>, 300 seconds
 2. Prepare Developer and Water Baths<br>_Note: perform in chemical fume hood_
     1. Prepare a shallow HDPE tray full of DI water, and another with 726 MIF developer
-    1. ~250 mL of 726 MIF developer should be sufficient for 6 wafers
+    <br> a. ~250 mL of 726 MIF developer should be sufficient for 6 wafers
 
 3. Dry-Bake<br>_Note: this step should be performed immediately before photoresist deposition_
     1. Bake wafers at 60 °C in an oven under light vacuum (35-40 cmHg) and N¬2 flow (15-20 sccm) for >15 minutes
@@ -66,12 +66,12 @@ Time: 75 seconds (approximate)
 4. Spin Photoresist<br>_Note: Before coating wafers run 3 “dummy spins” using spare wafers to ensure spinner chamber environment is saturated with solvent from photoresist. This will prevent differences in resist thickness between first and last wafers in a run._
     1. Line sidewalls of spinner with aluminum foil to reduce mess
     2. Center wafer on spinner vacuum chuck using spinner centering tool and engage chuck vacuum
-    3. Spinner requires supply of clean dry air for vacuum to engage
-    4. Deposit 3 mL of AZ 12XT-20PL-15 photoresist from preprepared syringe onto center of wafer
-    5. Ensure there are no air bubbles in resist
-    6. Close lid and run program
-    7. Spin on 500 RPM for 10 seconds
-    8. Spin 2000 RPM for 45 seconds
+    <br> a. Spinner requires supply of clean dry air for vacuum to engage
+    3. Deposit 3 mL of AZ 12XT-20PL-15 photoresist from preprepared syringe onto center of wafer
+    <br> a. Ensure there are no air bubbles in resist
+    4. Close lid and run program
+    <br> a. Spin on 500 RPM for 10 seconds
+    <br> b. Spin 2000 RPM for 45 seconds
 
 5. Soft-Bake
     1. Bake the wafer on hotplate for 3 minutes at 110 °C. Calibrate temperature to IR gun and do not rely on hotplate reading
@@ -105,9 +105,9 @@ Time: 75 seconds (approximate)
 
 9. Develop
     1. Develop wafer in shallow bath of 726 MIF developer for approximately 75 seconds
-    2. Development time is dependent on area of exposed features and will vary between mask-sets
-    3. Immediately rinse in DI water bath and rinse 3× in water
-    4. Blow dry with N<sub>2</sub>
+    <br> a. Development time is dependent on area of exposed features and will vary between mask-sets
+    2. Immediately rinse in DI water bath and rinse 3× in water
+    3. Blow dry with N<sub>2</sub>
 
 10. Inspect
     1. Inspect under compound microscope with yellow light filter
