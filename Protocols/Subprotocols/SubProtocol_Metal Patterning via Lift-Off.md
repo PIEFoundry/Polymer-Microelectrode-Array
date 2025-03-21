@@ -15,15 +15,15 @@ Description: This document details the protocol for the high-resolution image re
 
 1. Acetone Soak <br>_Note: Perform all steps in solvent fume hood_ <br>_Note: Lift-off is a particulate generating process. Expect dishware and tweezers to become contaminated by metal particles. Designated tweezers and glassware for lift-off only processing._
     1. Soak wafers overnight in room temperature acetone bath. Features should begin to appear after a few minutes. If not, the photoresist profile may be incorrect
-    * Bath will need to be covered in aluminum foil to prevent solvent evaporation overnight
-    * If possible, wafers should be stood vertical to reduce particle redeposition
+    <br> a. Bath will need to be covered in aluminum foil to prevent solvent evaporation overnight
+    <br> b. If possible, wafers should be stood vertical to reduce particle redeposition
 
 2. Prepare Solvent Baths
     1. The following day prepare solvent baths in fume hood (organic solvents must be in glass containers marked for liftoff)
-    * NMP solution in ultrasonic bath set to 60 °C
-    * Room temperature bath of NMP rinse
-    * Room temperature bath of IPA
-    * Room temperature bath of DI water
+    <br> a. NMP solution in ultrasonic bath set to 60 °C
+    <br> b. Room temperature bath of NMP rinse
+    <br> c. Room temperature bath of IPA
+    <br> d. Room temperature bath of DI water
 
 3. Dry-Bake <br> _Note: this step should be performed immediately before photoresist deposition_
     1. Bake wafers at 60 °C in an oven under light vacuum (35-40 cmHg) and N¬2 flow (15-20 sccm) for >15 minutes
@@ -41,5 +41,5 @@ Description: This document details the protocol for the high-resolution image re
 6. Inspect and Clean
     1. Inspect features under compound microscope
     2. Clean up chemicals and dishes
-    * Dispose of NMP and IPA in solvent waste bottle
-    * Glass dishes should be rinsed clean with acetone, IPA, and DI water
+    <br> a. Dispose of NMP and IPA in solvent waste bottle
+    <br> b. Glass dishes should be rinsed clean with acetone, IPA, and DI water
