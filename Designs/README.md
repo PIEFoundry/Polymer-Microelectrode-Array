@@ -5,4 +5,4 @@ All mask designs are included in a single DXF file as separate layers (metal, et
 All PDF designs include Eagle files (schematic and boards), as well as most recent Gerber files for production and drawings with dimensions.
 - All units including drawing dimensions in mm unless otherwise noted
 - Built in Eagle v9.6.2
-- Eagle libraries can be found in [Resources](Polymer-Microelectrode-Array/Resources/Libraries)
+- Eagle libraries can be found in [Resources](/Resources/Libraries)
