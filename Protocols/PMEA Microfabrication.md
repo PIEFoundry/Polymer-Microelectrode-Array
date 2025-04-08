@@ -298,7 +298,7 @@ Equipment:
 * *Wafer centering tool*
 
 Process:
-1. Prepare a photoresist etch mask, approximately 15 microns thick, defining the outline of the MEA, and the openings over the electrodes and contact pads. [See Etch Mask Lithography Protocol](Subprotocols/SubProtocol_Etch520Mask%20Lithography.md).
+1. Prepare a photoresist etch mask, approximately 15 microns thick, defining the outline of the MEA, and the openings over the electrodes and contact pads. [See Etch Mask Lithography Protocol](Subprotocols/SubProtocol_Etch%20Mask%20Lithography.md).
 2. Confirm and record the thickness of the photoresist with contact profilometer. Target is 16 ± 1 micron.
 
 ### 4.3 Etch Parylene
