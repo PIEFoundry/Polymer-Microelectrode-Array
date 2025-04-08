@@ -1,5 +1,6 @@
 # Polymer Microelectrode Array
-This repository contains all files relevant to the design and manufacture of the PIE Foundry polymer microelectrode arrays. For more information about the PIE Foundry, visit our [website](https://piefoundry.usc.edu/). 
+This repository contains all files relevant to the design and manufacture of the PIE Foundry polymer microelectrode arrays. For more information about the PIE Foundry, visit our [website](https://piefoundry.usc.edu/). <br>
+Please cite this repository using the DOI below <br> [![DOI](https://zenodo.org/badge/590643104.svg)](https://doi.org/10.5281/zenodo.15178197)
 
 ## Organization
 [Protocols](/Protocols) directory holds up-to-date protocols and subprotocols for PMEA microfabrication and PCB attachment/packaging. PDF files are updated with each release. <br>
