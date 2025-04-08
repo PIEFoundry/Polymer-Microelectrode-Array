@@ -73,12 +73,15 @@ Time: 75 seconds (approximate)
     <br> a. Spin on 500 RPM for 10 seconds
     <br> b. Spin 2000 RPM for 45 seconds
 
-5. Soft-Bake
+5. Edge Bead Removal
+    1. Remove photoresist edge bead to improve lithographic alignment. [See Edge Bead Removal Subprotocol](SubProtocol_Edge%20Bead%20Removal.md) 
+
+6. Soft-Bake
     1. Bake the wafer on hotplate for 3 minutes at 110 °C. Calibrate temperature to IR gun and do not rely on hotplate reading
     2. Wafer should be placed in the center of the hot plate with flat facing forward. Use heat shield around hot plate
     3. After baking, store the wafer in black wafer storage box for at least 3 minutes
 
-6. Align, Contact, and Exposure
+7. Align, Contact, and Exposure
     1. Set the UV lamp to desired intensity and duration. Targeted dose is 185 mJ/cm<sup>2</sup>. Typical intensity is 12.5 mW/cm<sup>2</sup> (measured at i-line 365 nm) for 14.8 seconds but can be adjusted depending on current lamp intensity
     2. Clean mask aligner vacuum chuck and mask holder of any particles. Remove vacuum O-ring around vacuum chuck if present
     3. Place photomask feature (chrome) side down (facing vacuum chuck). Secure with mask holder vacuum and screw clamps
@@ -96,12 +99,10 @@ Time: 75 seconds (approximate)
     15. Re-engage N<sub>2</sub> purge. Gently lower the wafer. If the wafer does not move freely, pause, and wait before trying again
     16. Once the wafer moves freely, return Z-axis sensitivity to starting level and lower the wafer completely clear of the mask. Raise the mask holder. Dis-engage substrate vacuum and N<sub>2</sub> purge. Remove wafer
 
-7. Post-Exposure-Bake
+8. Post-Exposure-Bake
     1. Bake the wafer on hotplate for 1 minute at 90 °C. Calibrate temperature to IR gun and do not rely on hotplate reading
     2. Wafer should be placed in the center of the hot plate with flat facing forward. Use heat shield around hot plate
-
-8. Quench in Deionized Water
-    1. Immediately place wafer in shallow bath of DI water and let soak for 3 minutes to avoid heating and reduce gas bubble formation
+    3. Allow wafer to fully cool before development
 
 9. Develop
     1. Develop wafer in shallow bath of 726 MIF developer for approximately 75 seconds

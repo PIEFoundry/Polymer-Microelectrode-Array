@@ -75,7 +75,7 @@ Equipment:
 * *Parylene PVD*
 
 Process:
-1. Deposit 10 microns of Parylene C on to wafers. [See Parylene C Coating Subprotocol]().
+1. Deposit 10 microns of Parylene C on to wafers. [See Parylene C Coating Subprotocol](Subprotocols/SubProtocol_Parylene%20C%20Coating.md).
     1. 30-36 g of dimer is typical, but amount should be verified by comparing to past Parylene runs and adjusted as needed
     2. 12 wafers per batch is recommended and varying the wafer number will affect the amount of dimer required
 
@@ -117,7 +117,7 @@ Equipment:
 * *Teflon mask holder*
 
 Process:
-1. Clean photomask prior to lithography. [See Photomask Cleaning Subprotocol]().
+1. Clean photomask prior to lithography. [See Photomask Cleaning Subprotocol](Subprotocols/SubProtocol_Photomask%20Cleaning.md).
 
 ### 2.2 High Resolution Image Reversal Lithography
 
@@ -140,7 +140,7 @@ Equipment:
 * *Contact profilometer*
 
 Process:
-1. Prepare an image reversal photoresist mask of the electrodes, traces, and contact pads. [See High Resolution Image Reversal Lithography Subprotocol]().
+1. Prepare an image reversal photoresist mask of the electrodes, traces, and contact pads. [See High Resolution Image Reversal Lithography Subprotocol](Subprotocols/SubProtocol_Photomask%20Cleaning.md).
 2. Confirm and record the thickness of the photoresist with contact profilometer. Target is 1.2 ± 0.15 micron.
 
 ### 2.3 Descum Wafer
@@ -186,7 +186,7 @@ Equipment:
 * *Sonicating bath*
 
 Process:
-1. Lift-off photoresist to reveal metal pattern. [See Metal Patterning via Lift-Off Subprotocol]().
+1. Lift-off photoresist to reveal metal pattern. [See Metal Patterning via Lift-Off Subprotocol](Subprotocols/SubProtocol_High%20Resolution%20Image%20Reversal%20Lithography.md).
 
 ### 2.6 Dry-Bake
 
@@ -225,7 +225,7 @@ Equipment:
 * *Stirring rod*
 
 Process:
-1. Treat the wafers with a solution of A-174 silane to improve adhesion to the insulating Parylene C layer. [See Silanization Subprotocol]().
+1. Treat the wafers with a solution of A-174 silane to improve adhesion to the insulating Parylene C layer. [See Silanization Subprotocol](Subprotocols/SubProtocol_Silanization.md).
 
 ### 3.3 Dry-Bake
 
@@ -248,7 +248,7 @@ Equipment:
 * *Parylene PVD*
 
 Process:
-1. Deposit 10 microns of Parylene C on to wafers. [See Parylene C Deposition Protocol]().
+1. Deposit 10 microns of Parylene C on to wafers. [See Parylene C Deposition Protocol](Subprotocols/SubProtocol_Parylene%20C%20Coating.md).
     1. 30-36 g of dimer is typical, but amount should be verified by comparing to past Parylene runs and adjusted as needed
     2. 12 wafers per batch is recommended and varying the wafer number will affect the amount of dimer required
 
@@ -282,7 +282,7 @@ Equipment:
 * *Teflon mask holder*
 
 Process:
-1. Clean photomask prior to lithography. [See Photomask Cleaning Subprotocol]().
+1. Clean photomask prior to lithography. [See Photomask Cleaning Subprotocol](Subprotocols/SubProtocol_Photomask%20Cleaning.md).
 
 ### 4.2 Pattern Etch Mask with Photolithography
 
@@ -298,7 +298,7 @@ Equipment:
 * *Wafer centering tool*
 
 Process:
-1. Prepare a photoresist etch mask, approximately 15 microns thick, defining the outline of the MEA, and the openings over the electrodes and contact pads. [See Etch Mask Lithography Protocol]().
+1. Prepare a photoresist etch mask, approximately 15 microns thick, defining the outline of the MEA, and the openings over the electrodes and contact pads. [See Etch Mask Lithography Protocol](Subprotocols/SubProtocol_Etch%20Mask%20Lithography.md).
 2. Confirm and record the thickness of the photoresist with contact profilometer. Target is 16 ± 1 micron.
 
 ### 4.3 Etch Parylene
@@ -374,7 +374,7 @@ Equipment:
 * *Teflon mask holder*
 
 Process:
-1. Clean photomask prior to lithography. [See Photomask Cleaning Subprotocol]().
+1. Clean photomask prior to lithography. [See Photomask Cleaning Subprotocol](Subprotocols/SubProtocol_Photomask%20Cleaning.md).
 
 ### 5.2 Pattern Etch Mask with Photolithography
 
@@ -390,7 +390,7 @@ Equipment:
 * *Wafer centering tool*
 
 Process:
-1. Prepare a photoresist etch mask, approximately 15 microns thick, defining the outline of the MEA, and the openings over the electrodes and contact pads. [See Etch Mask Lithography Protocol]().
+1. Prepare a photoresist etch mask, approximately 15 microns thick, defining the outline of the MEA, and the openings over the electrodes and contact pads. [See Etch Mask Lithography Protocol](Subprotocols/SubProtocol_Etch%20Mask%20Lithography.md).
 2. Confirm and record the thickness of the photoresist with contact profilometer. Target is 16 ± 1 micron.
 
 ### 5.3 Etch Parylene
