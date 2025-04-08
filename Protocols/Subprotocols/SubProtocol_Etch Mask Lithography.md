@@ -74,7 +74,7 @@ Time: 75 seconds (approximate)
     <br> b. Spin 2000 RPM for 45 seconds
 
 5. Edge Bead Removal
-    Remove photoresist edge bead to improve lithographic alignment. [See Edge Bead Removal Subprotocol](SubProtocol_Edge%20Bead%20Removal.md) 
+    1. Remove photoresist edge bead to improve lithographic alignment. [See Edge Bead Removal Subprotocol](SubProtocol_Edge%20Bead%20Removal.md) 
 
 6. Soft-Bake
     1. Bake the wafer on hotplate for 3 minutes at 110 °C. Calibrate temperature to IR gun and do not rely on hotplate reading
