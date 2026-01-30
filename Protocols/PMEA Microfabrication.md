@@ -37,8 +37,8 @@ Table of Contents
 6. [Release MEAs](#6-release-meas)
 7. [Post-Process Annealing](#7-post-process-annealing)
    * [Release Stress (Flatten)](#71-release-stress-flatten)
-   * [Vacuum Anneal](#72-vacuum-anneal)
-   * [High Temperature Vacuum Anneal](#73-high-temperature-vacuum-anneal)
+   * [High Temperature Vacuum Anneal](#72-high-temperature-vacuum-anneal)
+   * [Vacuum Anneal](#73-vacuum-anneal)
 8. [Post-Process Cleaning](#8-post-process-cleaning)
 
 <ol type="A">
@@ -141,7 +141,7 @@ Equipment:
 
 Process:
 1. Prepare an image reversal photoresist mask of the electrodes, traces, and contact pads. [See High Resolution Image Reversal Lithography Subprotocol](Subprotocols/SubProtocol_Photomask%20Cleaning.md).
-2. Confirm and record the thickness of the photoresist with contact profilometer. Target is 1.2 ± 0.15 micron.
+2. Confirm and record the thickness of the photoresist with contact profilometer. Target is 1.1 ± 0.5 micron.
 
 ### 2.3 Descum Wafer
 
@@ -152,7 +152,7 @@ Equipment:
 
 Process:
 1. Descum (clean) wafers in the RIE, two 4” wafers at the same time, using the following recipe:  
-    150 mT, 100 W, 50 sccm O<sub>2</sub>, 180 s.
+    150 mT, 100 W, 50 sccm O<sub>2</sub>, 90 s.
 
 ### 2.4 Deposit Metal
 
@@ -167,12 +167,13 @@ Equipment:
 * *E-beam evaporator*
 
 Process:
-1. Coat the wafers in a layer of evaporated metal using e-beam evaporation.
+1. Before loading metal ensure evaporator chamber and, importantly, the wafer holder, is clean.
+2. Coat the wafers in a layer of evaporated metal using e-beam evaporation.
     1. Metal stack and parameters:  
-        20 nm Ti (1 Å/s)  
-        25 nm Pt (1 Å/s)  
-        155 nm Au (2 Å/s)  
-        25 nm Pt (1 Å/s)
+        20 nm Ti (2 Å/s)  
+        25 nm Pt (2 Å/s)  
+        155 nm Au (3 Å/s)  
+        25 nm Pt (2 Å/s)
 
 ### 2.5 Pattern Metal via Lift-Off
 
@@ -207,7 +208,7 @@ Equipment:
 
 Process:
 1. Descum (clean) wafers in the asher using the following recipe:  
-    125 mT, 100 W, 30 sccm O<sub>2</sub>, 300 s
+    300 mT, 10 W, 115 sccm O<sub>2</sub>, 300 s
 
 ### 3.2 Silanization
 
@@ -299,7 +300,7 @@ Equipment:
 
 Process:
 1. Prepare a photoresist etch mask, approximately 15 microns thick, defining the outline of the MEA, and the openings over the electrodes and contact pads. [See Etch Mask Lithography Protocol](Subprotocols/SubProtocol_Etch%20Mask%20Lithography.md).
-2. Confirm and record the thickness of the photoresist with contact profilometer. Target is 16 ± 1 micron.
+2. Confirm and record the thickness of the photoresist with contact profilometer. Target is 15 ± 1 micron.
 
 ### 4.3 Etch Parylene
 
@@ -391,7 +392,7 @@ Equipment:
 
 Process:
 1. Prepare a photoresist etch mask, approximately 15 microns thick, defining the outline of the MEA, and the openings over the electrodes and contact pads. [See Etch Mask Lithography Protocol](Subprotocols/SubProtocol_Etch%20Mask%20Lithography.md).
-2. Confirm and record the thickness of the photoresist with contact profilometer. Target is 16 ± 1 micron.
+2. Confirm and record the thickness of the photoresist with contact profilometer. Target is 15 ± 1 micron.
 
 ### 5.3 Etch Parylene
 
@@ -469,20 +470,7 @@ Process:
 2. Cover with second ceramic plate and place on hot plate.
 3. Set hot plate to 115 °C. Wait 15 minutes after the hot plate has reached temperature and return to < 60 °C temperature. Allow plates and MEAs to cool on hot plate.
 
-### 7.2 Vacuum Anneal
-
-Materials:
-* *Ceramic plates*
-
-Equipment:
-* *Vacuum oven with N<sub>2</sub>*
-
-Process:
-1. Sandwich released MEAs between clean ceramic plates and place in vacuum oven
-2. Pump down vacuum oven, then rinse 3× with N<sub>2</sub>.
-3. Anneal 200 °C with a soak time of 4 hours, and a ramp up/down time of 8 hours.
-
-### 7.3 High Temperature Vacuum Anneal
+### 7.2 High Temperature Vacuum Anneal
 
 Materials:
 * *Ceramic plates*
@@ -493,7 +481,20 @@ Equipment:
 Process:
 1. Sandwich released MEAs between clean ceramic plates and place in vacuum oven
 2. Pump down vacuum oven.
-3. Anneal 200 °C with a soak time of 4 hours, and a ramp up/down time of 8 hours.
+3. Anneal 275 °C with a soak time of 5 hours.
+
+### 7.3 Vacuum Anneal
+
+Materials:
+* *Ceramic plates*
+
+Equipment:
+* *Vacuum oven with N<sub>2</sub>*
+
+Process:
+1. Sandwich released MEAs between clean ceramic plates and place in vacuum oven
+2. Pump down vacuum oven, then rinse 3× with N<sub>2</sub>.
+3. Anneal 200 °C with a soak time of 48 hours, and a ramp up/down time of 8 hours.
 
 ## 8. Post-Process Cleaning
 
@@ -509,7 +510,7 @@ Equipment:
 Process:
 1. Attach released devices to a clean carrier wafer (Si or glass) with the electrode sites exposed using small pieces of Kapton tape
 2. Clean devices in the Asher using the following recipe:  
-    125 mT, 100 W, 30 sccm O<sub>2</sub>, 5 minutes
+    300 mT, 100 W, 115 sccm O<sub>2</sub>, 300 seconds
    
 ## A. Process Flow Diagram
 
@@ -521,7 +522,6 @@ _Note: Standard materials (e.g. acetone, DI water, cleanroom wipes, etc.) are no
 
 | **Material** | **Supplier** |
 | --- | --- |
-| CR-7 chrome etchant | Transene, Danvers, MA |
 | Parylene dimer | Specialty Coating Systems, Indianapolis, IN |
 | AZ 12XT-20PL-15 photoresist | AZ Electronic Materials, Branchburg, NJ |
 | AZ 5214 E photoresist | AZ Electronic Materials, Branchburg, NJ |
