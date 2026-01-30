@@ -27,24 +27,24 @@ Spinner Recipe Program T
 1st Spin Speed: 500 RPM  
 1st Spin Time: 10 seconds
 
-1st Spin Acceleration: acceleration level 8 (1088 RPM)  
+1st Spin Acceleration: acceleration level 2 (low acceleration/deceleration)  
 2nd Spin Speed: 2000 RPM  
 2nd Spin Time: 45 seconds
 
-2nd Spin Acceleration: acceleration level 8 (1088 RPM)
+2nd Spin Acceleration: acceleration level 2 (low acceleration/deceleration)
 
 ### Soft-Bake:<br>
 Temperature: 110 °C<br>Time: 180 seconds 
 
 ### Exposure<br>
-Dose: 185 mJ/cm<sup>2</sup><br>
-Time: 14.8 seconds<br>
+Dose: 117.5 mJ/cm<sup>2</sup><br>
+Time: 9.4 seconds<br>
 Intensity: 12.5 mW/cm<sup>2</sup>
 
 ### Post-Exposure Bake
 
 Temperature: 90 °C<br>
-Time: 60 seconds
+Time: 90 seconds
 
 ### Develop
 
@@ -55,7 +55,7 @@ Time: 75 seconds (approximate)
 
 1. Descum
     1. Descum (clean/roughen) wafers in the asher using the following recipe  :
-    2. 125 mT, 100 W, 30 sccm O<sub>2</sub>, 300 seconds
+    2. 300 mT, 100 W, 115 sccm O<sub>2</sub>, 300 seconds
 2. Prepare Developer and Water Baths<br>_Note: perform in chemical fume hood_
     1. Prepare a shallow HDPE tray full of DI water, and another with 726 MIF developer
     <br> a. ~250 mL of 726 MIF developer should be sufficient for 6 wafers
@@ -71,7 +71,7 @@ Time: 75 seconds (approximate)
     <br> a. Ensure there are no air bubbles in resist
     4. Close lid and run program
     <br> a. Spin on 500 RPM for 10 seconds
-    <br> b. Spin 2000 RPM for 45 seconds
+    <br> b. Spin 2000 RPM for 45 seconds <br>_Note: Low acceleration/deceleration helps prevent spin defects_
 
 5. Edge Bead Removal
     1. Remove photoresist edge bead to improve lithographic alignment. [See Edge Bead Removal Subprotocol](SubProtocol_Edge%20Bead%20Removal.md) 
@@ -82,7 +82,7 @@ Time: 75 seconds (approximate)
     3. After baking, store the wafer in black wafer storage box for at least 3 minutes
 
 7. Align, Contact, and Exposure
-    1. Set the UV lamp to desired intensity and duration. Targeted dose is 185 mJ/cm<sup>2</sup>. Typical intensity is 12.5 mW/cm<sup>2</sup> (measured at i-line 365 nm) for 14.8 seconds but can be adjusted depending on current lamp intensity
+    1. Set the UV lamp to desired intensity and duration. Targeted dose is 117.5 mJ/cm<sup>2</sup>. Typical intensity is 12.5 mW/cm<sup>2</sup> for 14.8 seconds but can be adjusted depending on current lamp intensity
     2. Clean mask aligner vacuum chuck and mask holder of any particles. Remove vacuum O-ring around vacuum chuck if present
     3. Place photomask feature (chrome) side down (facing vacuum chuck). Secure with mask holder vacuum and screw clamps
     4. Place wafer face up and centered on vacuum chuck. Turn on substrate vacuum
@@ -100,7 +100,7 @@ Time: 75 seconds (approximate)
     16. Once the wafer moves freely, return Z-axis sensitivity to starting level and lower the wafer completely clear of the mask. Raise the mask holder. Dis-engage substrate vacuum and N<sub>2</sub> purge. Remove wafer
 
 8. Post-Exposure-Bake
-    1. Bake the wafer on hotplate for 1 minute at 90 °C. Calibrate temperature to IR gun and do not rely on hotplate reading
+    1. Bake the wafer on hotplate for 90 seconds at 90 °C. Calibrate temperature to IR gun and do not rely on hotplate reading
     2. Wafer should be placed in the center of the hot plate with flat facing forward. Use heat shield around hot plate
     3. Allow wafer to fully cool before development
 
