@@ -59,7 +59,7 @@ Time: 18 seconds
 
 1.  Descum
     1. Descum (clean/roughen) wafers in the asher using the following recipe<br>
-   125 mT, 100 W, 30 sccm O<sub>2</sub>, 300 seconds
+   300 mT, 100 W, 115 sccm O<sub>2</sub>, 300 seconds
 
 2. Prepare Developer and Water Baths<br>
 _Note: perform in chemical fume hood_
@@ -87,7 +87,7 @@ _Note: Before coating wafers run 3 “dummy spins” using spare wafers to ensur
     3. After baking, store the wafer in black wafer storage box for at least 3 minutes
 
 6. Vacuum Contact and Exposure
-    1. Set the UV lamp to desired intensity and duration. Targeted dose is 42 mJ/cm<sup>2</sup>. Typical intensity is 12.5 mW/cm<sup>2</sup> (measured at i-line 365 nm) for 3.4 seconds but can be adjusted depending on current lamp intensity
+    1. Set the UV lamp to desired intensity and duration. Targeted dose is 42 mJ/cm<sup>2</sup>. Typical intensity is 12.5 mW/cm<sup>2</sup> for 3.4 seconds but can be adjusted depending on current lamp intensity
     2. Clean mask aligner vacuum chuck and mask holder of any particles. Place vacuum O-ring around vacuum chuck
     3. Place photomask feature (chrome) side down (facing vacuum chuck). Secure with mask holder vacuum and screw clamps
     4. Place wafer face up and centered on vacuum chuck. Turn on substrate vacuum
@@ -107,7 +107,7 @@ _Note: Before coating wafers run 3 “dummy spins” using spare wafers to ensur
     3. After baking, store the wafer in black wafer storage box for at least 3 minutes
 
 8. Flood Exposure
-    1. Set the UV lamp to desired intensity and duration. Targeted dose is 280 mJ/cm<sup>2</sup>. Typical intensity is 12.5 mW/cm<sup>2</sup> (measured at i-line 365 nm) for 22.4 seconds but can be adjusted depending on current lamp intensity
+    1. Set the UV lamp to desired intensity and duration. Targeted dose is 280 mJ/cm<sup>2</sup>. Typical intensity is 12.5 mW/cm<sup>2</sup> for 22.4 seconds but can be adjusted depending on current lamp intensity
     2. Remove mask from mask holder and store
     3. Place wafer face up and centered on vacuum chuck. Turn on substrate vacuum
     4. Blow wafer surface clean of particles with N<sub>2</sub> gun
