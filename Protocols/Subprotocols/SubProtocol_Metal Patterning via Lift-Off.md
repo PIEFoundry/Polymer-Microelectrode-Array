@@ -10,17 +10,18 @@ Description: This document details the protocol for the high-resolution image re
 ## Equipment:
 * *Glass dishes designated for lift-off*
 * *Sonicating bath*
+* *PTFE vertical wafer holder*
 
 ## Process:
 
 1. Acetone Soak <br>_Note: Perform all steps in solvent fume hood_ <br>_Note: Lift-off is a particulate generating process. Expect dishware and tweezers to become contaminated by metal particles. Designated tweezers and glassware for lift-off only processing._
-    1. Soak wafers overnight in room temperature acetone bath. Features should begin to appear after a few minutes. If not, the photoresist profile may be incorrect
+    1. Soak wafers for at least one hour, and for as long as overnight, in room temperature acetone. The shortest possible soak duration should be used.. Features should begin to appear after a few minutes. If not, the photoresist profile may be incorrect
     <br> a. Bath will need to be covered in aluminum foil to prevent solvent evaporation overnight
     <br> b. If possible, wafers should be stood vertical to reduce particle redeposition
 
 2. Prepare Solvent Baths
     1. The following day prepare solvent baths in fume hood (organic solvents must be in glass containers marked for liftoff)
-    <br> a. NMP solution in ultrasonic bath set to 60 °C
+    <br> a. Room temperature NMP solution in ultrasonic bath set
     <br> b. Room temperature bath of NMP rinse
     <br> c. Room temperature bath of IPA
     <br> d. Room temperature bath of DI water
@@ -30,7 +31,7 @@ Description: This document details the protocol for the high-resolution image re
 
 4. Ultrasonic Bath
     1. Transfer wafer from acetone bath to NMP ultrasonic bath. As the wafer is removed from the solvent immediately spray with NMP while holding the wafer at a downward sloping angle to remove all remaining metal flakes. Make all efforts to prevent the wafer from drying
-    2. Apply ultrasonic for 2 minutes
+    2. Apply ultrasonic for 1-2 minutes
 
 5. Solvent Rinse
     1. Transfer wafer to the NMP rinse. Again, spray vigorously with NMP squeeze bottle while holding the wafer at a downward sloping angle to remove all remaining metal flakes. Let rinse for > 5 minutes
