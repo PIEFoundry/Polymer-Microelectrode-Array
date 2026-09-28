@@ -541,17 +541,17 @@ _Note: Standard equipment (e.g. tweezers, microscopes, N<sub>2</sub> gun, scale,
 | **Equipment** | **Model #** | **Supplier** |
 | --- | --- | --- |
 | Vacuum oven with N<sub>2</sub> | TVO-2 | Cascade Tek Inc., Longmont, CO |
-| VO914A | Lindberg/Blue M, New Columbia, PA |
+| | VO914A | Lindberg/Blue M, New Columbia, PA |
 | Profilometer | DektakXT | Bruker, Billerica, MA |
 | Spin coater | WS-400B-6NPP Lite | Laurell Technologies, North Wales, PA |
 | Hot plate | PMC 730 Dataplate | Barnstead/Thermolyne, Dubuque, IA |
-| 1000-1 | Electronic Micro Systems, Sutton Coldfield, UK |
+| | 1000-1 | Electronic Micro Systems, Sutton Coldfield, UK |
 | Sonicating bath | 3510 | Branson Ultrasonics, Danbury, CT |
 | DRIE | Plasmalab 100 | Oxford Instruments, Bristol, UK |
 | RIE | PlasmaPro 80 | Oxford Instruments, Bristol, UK |
-| Series 85 | Technics, Pleasanton, CA |
+| | Series 85 | Technics, Pleasanton, CA |
 | Asher | CV200RFS | Yield Engineering Systems, Fremont, CA |
 | Mask aligner | Model 200 | OAI, San Jose, CA |
 | E-beam evaporator | Mark 40 | CHA Industries, Livermore, CA |
-| PRO Line PVD 75 | Kurt J. Lesker, Jefferson Hills, PA |
+| | PRO Line PVD 75 | Kurt J. Lesker, Jefferson Hills, PA |
 | Parylene PVD | PDS 2010 Labcoter | Specialty Coating Systems, Indianapolis, IN |
