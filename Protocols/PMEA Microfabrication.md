@@ -140,7 +140,7 @@ Equipment:
 * *Contact profilometer*
 
 Process:
-1. Prepare an image reversal photoresist mask of the electrodes, traces, and contact pads. [See High Resolution Image Reversal Lithography Subprotocol](Subprotocols/SubProtocol_Photomask%20Cleaning.md).
+1. Prepare an image reversal photoresist mask of the electrodes, traces, and contact pads. [See High Resolution Image Reversal Lithography Subprotocol](Subprotocols/SubProtocol_High%20Resolution%20Image%20Reversal%20Lithography.md).
 2. Confirm and record the thickness of the photoresist with contact profilometer. Target is 1.1 ± 0.5 micron.
 
 ### 2.3 Descum Wafer
@@ -187,7 +187,7 @@ Equipment:
 * *Sonicating bath*
 
 Process:
-1. Lift-off photoresist to reveal metal pattern. [See Metal Patterning via Lift-Off Subprotocol](Subprotocols/SubProtocol_High%20Resolution%20Image%20Reversal%20Lithography.md).
+1. Lift-off photoresist to reveal metal pattern. [See Metal Patterning via Lift-Off Subprotocol](Subprotocols/SubProtocol_Metal%20Patterning%20via%20Lift-Off.md).
 
 ### 2.6 Dry-Bake
 
